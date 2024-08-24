@@ -1,4 +1,4 @@
-# Code to generate a uniform distribution of particles on a triangulated surface
+## Uniform distribution of particles on a triangulated surface
 
 If $\vec{X}_1$, $\vec{X}_2$, and $\vec{X}_3$ are the 3 vertices of a triangle then a uniform distribution of particles in it can be generated as
 
