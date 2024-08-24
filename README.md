@@ -18,3 +18,5 @@ If $N_p$ is the total number of particles to be distributed on the surface, then
 $$ N_i = ROUND\left( N_p \frac{A_i}{\sum_j A_j} \right) $$
 
 ![Knot](https://github.com/user-attachments/assets/2229268d-ff9d-4860-98ec-05d97ca9a81e)
+
+**NOTE**: Typically $N_p \ne \sum_i N_i$.
